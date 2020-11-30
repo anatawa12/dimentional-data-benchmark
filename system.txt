@@ -1,0 +1,31 @@
+Host Name:                 ANATAWA12-WIN
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.18363 N/A Build 18363
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 165 Stepping 5 GenuineIntel ~2904 Mhz
+Total Physical Memory:     16,287 MB
+Available Physical Memory: 11,390 MB
+Virtual Memory: Max Size:  18,719 MB
+Hotfix(s):                 14 Hotfix(s) Installed.
+                           [01]: KB4580980
+                           [02]: KB4497165
+                           [03]: KB4513661
+                           [04]: KB4516115
+                           [05]: KB4517245
+                           [06]: KB4521863
+                           [07]: KB4541302
+                           [08]: KB4561600
+                           [09]: KB4569073
+                           [10]: KB4576751
+                           [11]: KB4577670
+                           [12]: KB4580325
+                           [13]: KB4586863
+                           [14]: KB4586786
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

@@ -1,0 +1,7 @@
+Benchmark                                  Mode  Cnt      Score     Error  Units
+DoubleVectorTest.randomGetByDoubles3      thrpt   10  20213.853 ± 150.294  ops/s
+DoubleVectorTest.randomGetByDoubles4      thrpt   10  20449.096 ± 155.060  ops/s
+DoubleVectorTest.randomGetByVectors       thrpt   10  21013.620 ± 319.741  ops/s
+DoubleVectorTest.sequentialGetByDoubles3  thrpt   10  42084.876 ± 178.539  ops/s
+DoubleVectorTest.sequentialGetByDoubles4  thrpt   10  43741.507 ±  53.954  ops/s
+DoubleVectorTest.sequentialGetByVectors   thrpt   10  46913.503 ± 525.058  ops/s
